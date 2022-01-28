@@ -8,4 +8,4 @@ services:
     stdin_open: true # docker run -i
     tty: true        # docker run -t
     command: bash
-    container_name: A2 # container name will be exactly this
+    container_name: A1 # container name will be exactly this
